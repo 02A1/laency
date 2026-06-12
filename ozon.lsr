@@ -1,6 +1,10 @@
-DOMAIN-SUFFIX,ozon.ru
-DOMAIN-SUFFIX,ozon.com
-DOMAIN-SUFFIX,ozon.by
-DOMAIN-SUFFIX,ozon.kz
-DOMAIN-SUFFIX,ozonusercontent.com
-DOMAIN-KEYWORD,ozon
+DOMAIN-SUFFIX,ozon.ru,OZON
+DOMAIN-SUFFIX,ozon.com,OZON
+DOMAIN-SUFFIX,ozon.by,OZON
+DOMAIN-SUFFIX,ozon.kz,OZON
+DOMAIN-SUFFIX,api.ozon.ru,OZON
+DOMAIN-SUFFIX,api.ozon.com,OZON
+DOMAIN-SUFFIX,cdn.ozon.ru,OZON
+DOMAIN-SUFFIX,ozonusercontent.com,OZON
+DOMAIN-SUFFIX,ozon-st.cdn.ngenix.net,OZON
+DOMAIN-KEYWORD,ozon,OZON
